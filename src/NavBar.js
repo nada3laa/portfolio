@@ -70,7 +70,7 @@ const NavBar = () => {
 
                         </ul>
                         <form className="form-inline my-2 my-lg-0">
-                            <a className='text-white animate__heartBeat  animate__animated animate__infinite' href="https://wa.me/+201554421324"><i className='fab fa-whatsapp'></i></a>
+                            <a className='text-white animate__heartBeat  animate__animated animate__infinite' href="https://wa.me/+201021806391"><i className='fab fa-whatsapp'></i></a>
                         </form>
                     </div>
                 </Container>
